@@ -6,4 +6,4 @@ The format is listed entirely in App.js, I did not initialize separate files and
 This repo just depicts a very standard API call utilizing React hooks and fetch functions, a rudimentary base for swapping out values, and can be supplemented as a template for any initial project or file (hence the neat placement in App.js).
 
 
-![apiss](https://user-images.githubusercontent.com/90425848/166072824-70fe8730-3f88-430e-b7b3-e95a6c5d8da6.png)
+<img src="https://user-images.githubusercontent.com/90425848/166072824-70fe8730-3f88-430e-b7b3-e95a6c5d8da6.png" width="500" height="1000" />
